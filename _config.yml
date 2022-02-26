@@ -16,6 +16,10 @@ author: UC-AWDU
 navbar-links:
   Platform: "platform"
   Get Involved: "getinvolved"
+  Sibling AWDU:
+   - CAWDU: "https://cawdu.com/"
+   - NYU-AWDU: "https://nyuawdu.wordpress.com/"
+   - Legacy UC-AWDU: "https://awdudotnet.wordpress.com/about/"
   Resources:
    - UAWD: "https://uawd.org/"
    - UAW 2865: "https://www.uaw2865.org/"

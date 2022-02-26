@@ -17,21 +17,22 @@ navbar-links:
   Bargaining Process: "bargaining_process"
   Platform: "platform"
   Get Involved: "getinvolved"
-  Sibling AWDU:
-   - CAWDU: "https://cawdu.com/"
-   - NYU-AWDU: "https://nyuawdu.wordpress.com/"
-   - Legacy UC-AWDU: "https://awdudotnet.wordpress.com/about/"
-  UAW Webpages:
-   - UAWD: "https://uawd.org/"
-   - UAW 2865: "https://www.uaw2865.org/"
-   - UAW 5810: "https://uaw5810.org/"
-   - SRU: "https://studentresearchersunited.org/"
-  Other UC Unions:
-   - AFSCME 3299: "https://afscme3299.org/"
-   - UPTE-CWA: "http://www.upte-cwa.org/"
-   - UC-AFT: "https://ucaft.org/"
-   - Teamsters 2010: "https://teamsters2010.org/"
-   - California Nurses Association: "https://www.nationalnursesunited.org/california-nurses-association"
+  Resources:
+   - Sibling AWDU:
+     - CAWDU: "https://cawdu.com/"
+     - NYU-AWDU: "https://nyuawdu.wordpress.com/"
+     - Legacy UC-AWDU: "https://awdudotnet.wordpress.com/about/"
+   - UAW Pages:
+     - UAWD: "https://uawd.org/"
+     - UAW 2865: "https://www.uaw2865.org/"
+     - UAW 5810: "https://uaw5810.org/"
+     - SRU: "https://studentresearchersunited.org/"
+   - Other UC Unions:
+     - AFSCME 3299: "https://afscme3299.org/"
+     - UPTE-CWA: "http://www.upte-cwa.org/"
+     - UC-AFT: "https://ucaft.org/"
+     - Teamsters 2010: "https://teamsters2010.org/"
+     - California Nurses Association: "https://www.nationalnursesunited.org/california-nurses-association"
    
 
 # --- Logo --- #

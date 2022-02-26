@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: For a Rank-and-file bargaining Process
+subtitle: Our Vision for the bargaining
 tags: [bargaining]
 ---
 

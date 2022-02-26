@@ -16,6 +16,10 @@ author: UC-AWDU
 navbar-links:
   Platform: "platform"
   Get Involved: "getinvolved"
+  Resources:
+   - UAWD: "https://uawd.org/"
+   - UAW 2865: "https://www.uaw2865.org/"
+   - SRU: "https://studentresearchersunited.org/"
 
 # --- Logo --- #
 

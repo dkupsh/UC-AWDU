@@ -4,6 +4,17 @@ layout: page
 
 {{ content }}
 
+<div id="carousel" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/cola/ucla4cola.jpg" alt="ucla4cola">
+    </div>
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/cola/ucd4cola.jpg" alt="ucd4cola">
+    </div>
+  </div>
+</div>
+
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
